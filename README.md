@@ -1,4 +1,3 @@
-# TOP25_ALGO_PYTHON
 # Top 25 Algorithms and Their Implementation in Python
 
 ## Introduction
